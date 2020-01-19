@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Credit Card Manager</string>
+    <string name="msg_loading">Loading...</string>
+</resources>
